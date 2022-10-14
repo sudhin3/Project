@@ -1,0 +1,270 @@
+@import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bowlby+One+SC&display=swap');
+body{
+    margin: 0px;
+}
+.head{
+    /* width: 100%;
+    height: 300px; */
+    /* background-color: green; */
+    /* background-image: url(./img/Heritage-Banner-.jpg);
+    width: 100%;
+    height: 1400px; */
+}
+.headimg{
+    width: 100%;
+    height: 300px;
+}
+.floatingmenu{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(255, 255, 255);
+    position: sticky;
+    top: 0px;
+}
+.logo{
+    padding-top: 10px;
+    padding-left: 35px;
+}
+.menu{
+    width: 100%;
+    background-color: white;
+    margin-top: -35px;
+}
+#coffee{
+    padding-left: 130px;
+    color: black;
+    /* text-decoration: none; */
+    cursor: pointer;
+}
+#chai{
+    padding-left: 30px;
+    color: black;
+   cursor: pointer;
+}
+#shopall{
+    padding-left: 30px;
+    color: black;
+    cursor: pointer;
+}
+#delivers{
+    padding-left:30px;
+    color: black;
+    cursor: pointer;
+    }
+#rewards{
+        padding-left: 30px;
+        color: black;
+  cursor: pointer;
+    }
+#about{
+    padding-left: 30px;
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+.fa-magnifying-glass{
+    margin-left: 400px;
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+.fa-user{
+    margin-left: 15px;
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+.fa-bell{
+    margin-left: 15px;
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+.img1{
+    width: 100%;
+    height: 350px;
+}
+.img2{
+    width: 100%;
+    height: 350px;
+    margin-top: -4px;
+    /* background-size: 100%; */
+}
+.center{
+    width: 100%;
+    height: 500px;
+    /* background-color: rgb(255, 0, 149); */
+    position: relative;
+}
+.cube-left-img{
+    /* width: 50%; */
+    /* height: 350px; */
+    /* background-color: red; */
+    padding-left: 100px;
+    padding-top: 80px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.cube-right{
+    position: absolute;
+    left: 50%;
+    margin-top: -250px;
+    margin-left: 100px;
+}
+.cube-right-text{
+    font-family: 'Bowlby One SC', cursive;
+    margin-top: 0px;   
+}
+.text1{
+    font-family: 'Handlee', cursive;
+    font-weight: 50px;
+    font-size: 20px;
+}
+.service{
+    width: 100%;
+    height: 500px;
+    /* background-color: blue; */
+    position: relative;
+    margin-top: -20px;
+}
+.box-left{
+    padding-top: 200px;
+    padding-left: 150px;
+}
+.box-left-text{
+    font-family: 'Bowlby One SC', cursive;
+}
+.text2{
+    font-family: 'Handlee', cursive;
+    font-size: 20px;
+    
+}
+.box-right-img{
+    margin-left: 750px;
+    margin-top: -230px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.space{
+    width: 100%;
+    height: 80px;
+    /* background-color: black; */
+}
+.contact{
+    width: 100%;
+    height: 80px;
+    padding-top: 25px;
+    background-color: rgb(221, 212, 212);
+}
+.fa-facebook{
+    padding-left: 50px;
+    cursor: pointer;
+}
+.fa-twitter{
+    padding-left: 20px;
+    cursor: pointer;
+}
+.fa-instagram{
+    padding-left: 20px;
+    cursor: pointer;
+}
+.fa-pinterest{
+    padding-left: 20px;
+    cursor: pointer;
+}
+.last{
+    width: 100%;
+    height: 350px;
+    background-color: rgba(255, 255, 255, 0.842);
+}
+.foot-left{
+    padding-top: 60px;
+    padding-left: 50px;
+}
+.about{
+   cursor: pointer;
+   color: grey;
+}
+.about:hover{
+    color:black;
+}
+.cust{
+    padding-left: 120px;
+    cursor: pointer;
+    color: grey;
+}
+.cust:hover{
+    color: black;
+}
+.quick{
+    padding-left: 40px;
+    cursor: pointer;
+    color: grey;
+}
+.quick:hover{
+    color: black;
+}
+.foot-text{
+    padding-left: 50px;
+    padding-top: 20px;
+}
+.fre{
+    padding-left: 95px;
+}
+.store{
+    padding-left: 30px;
+}
+.cmpy{
+    margin-top: 20px;
+}
+.company{
+    padding-left: 50px;
+}
+.down{
+    padding-left: 50px;
+    padding-top: 50px;
+}
+pre{
+    color: grey;
+}
+.pp{
+    color: black;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+.foot-right{
+    width: 25%;
+    height: 300px;
+    margin-top: -260px;
+    margin-left: 800px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    /* background-color: rebeccapurple; */
+}
+.user-id{
+    margin-left: 50px;
+    width: 70%;
+    border-radius: 30px;
+    height: 40px;
+    margin-top: 60px;
+}
+.user-pass{
+    width: 70%;
+    border-radius: 30px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.btn
+{
+    width: 25%;
+    border-radius: 30px;
+    height: 40px;
+    margin-top: 35px;
+    margin-left: 120px;
+}
+.btn:hover{
+    color: rgb(248, 248, 248);
+    background-color: black;
+}
+
+
+
